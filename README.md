@@ -16,7 +16,14 @@
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,premiere,ae)](https://skillicons.dev)
 
 ## 👾 Projects
-- Soon to come!
+[**Project 1:** Universal Design Project](https://github.com/nilkanth-p23/universal-design-proj) | BambuLab
+- This Universal Design Project was conducted in our ID3EA course and our team used 3D Printing Software and Mechanics while adhering to the Universal Design Principles.
+  
+[**Project 2:** Heat Transfer Project](https://github.com/nilkanth-p23/heat-transfer-project) | MATLAB
+- This Heat Transfer Project was conducted in our ID3EA course and our team used a variety of lab equipment, MATLAB coding, testing, and visualizing with different graphs and equipment.
+  
+[**Project 3:** Flight Delay & Airline Performance Analysis](https://github.com/nilkanth-p23/flight-delay-analysis) | Python, PostgreSQL, SQL, Tableau
+- Built an end-to-end analytics pipeline on 5.2M+ U.S. flights using official FAA/BTS government data and Python, PostgreSQL, SQL, Tableau.
 
 ## 📫 Reach Me
 - [**Email**](mailto:nilkanthpat23@gmail.com)
