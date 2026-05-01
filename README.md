@@ -25,6 +25,9 @@
 [**Project 3:** Flight Delay & Airline Performance Analysis](https://github.com/nilkanth-p23/flight-delay-analysis) | Python, PostgreSQL, SQL, Tableau
 - Built an end-to-end analytics pipeline on 5.2M+ U.S. flights using official FAA/BTS government data and Python, PostgreSQL, SQL, Tableau.
 
+[**Project 4:** Spotify Personality](https://github.com/nilkanth-p23/spotify-personality) | Next.js, Spotify API, NextAuth.js, Vercel
+- A full-stack web application that connects to your Spotify account and uses listening history, genre analysis, and audio feature data to generate a unique music personality type.
+  
 ## 📫 Reach Me
 - [**Email**](mailto:nilkanthpat23@gmail.com)
 
