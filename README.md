@@ -16,17 +16,21 @@
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,premiere,ae)](https://skillicons.dev)
 
 ## 👾 Projects
-[**Project 1:** Universal Design Project](https://github.com/nilkanth-p23/universal-design-proj) | BambuLab
-- This Universal Design Project was conducted in our ID3EA course and our team used 3D Printing Software and Mechanics while adhering to the Universal Design Principles.
-  
-[**Project 2:** Heat Transfer Project](https://github.com/nilkanth-p23/heat-transfer-project) | MATLAB
-- This Heat Transfer Project was conducted in our ID3EA course and our team used a variety of lab equipment, MATLAB coding, testing, and visualizing with different graphs and equipment.
-  
-[**Project 3:** Flight Delay & Airline Performance Analysis](https://github.com/nilkanth-p23/flight-delay-analysis) | Python, PostgreSQL, SQL, Tableau
+[**Project 1:** Flight Delay & Airline Performance Analysis](https://github.com/nilkanth-p23/flight-delay-analysis) | Python, PostgreSQL, SQL, Tableau
 - Built an end-to-end analytics pipeline on 5.2M+ U.S. flights using official FAA/BTS government data and Python, PostgreSQL, SQL, Tableau.
 
-[**Project 4:** Spotify Personality](https://github.com/nilkanth-p23/spotify-personality) | Next.js, Spotify API, NextAuth.js, Vercel
+[**Project 2:** Courtside — NBA Prediction Model Analysis](https://github.com/nilkanth-p23/nba-platform) | Python, SQL, pandas, PostgreSQL, scikit-learn, XGBoost, Recharts
+- A full-stack NBA analytics platform that forecasts game outcomes and player performance, tracks win probabilities during games, and uses an AI analyst to explain what drives each prediction.
+
+[**Project 3:** Spotify Personality](https://github.com/nilkanth-p23/spotify-personality) | Next.js, Spotify API, NextAuth.js, Vercel
 - A full-stack web application that connects to your Spotify account and uses listening history, genre analysis, and audio feature data to generate a unique music personality type.
+
+[**Project 4:** Universal Design Project](https://github.com/nilkanth-p23/universal-design-proj) | BambuLab
+- This Universal Design Project was conducted in our ID3EA course and our team used 3D Printing Software and Mechanics while adhering to the Universal Design Principles.
+  
+[**Project 5:** Heat Transfer Project](https://github.com/nilkanth-p23/heat-transfer-project) | MATLAB
+- This Heat Transfer Project was conducted in our ID3EA course and our team used a variety of lab equipment, MATLAB coding, testing, and visualizing with different graphs and equipment.
+  
   
 ## 📫 Reach Me
 - [**Email**](mailto:nilkanthpat23@gmail.com)
